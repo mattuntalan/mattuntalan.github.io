@@ -1,0 +1,21 @@
+---
+title: "Experience"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    theme: united
+---
+
+# Education
+## Columbia University
+### Master of Public Health in Biostatistics, Certificate in Advanced Epidemiology
+GPA: 3.8515
+
+## The College of New Jersey
+### Bachelor of Science in Biomedical Engineering
+GPA: 3.518
+
+
+
+
