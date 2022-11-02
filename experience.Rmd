@@ -8,13 +8,33 @@ output:
 ---
 
 # Education
-## Columbia University
-### Master of Public Health in Biostatistics, Certificate in Advanced Epidemiology
+**Columbia University**
+Master of Public Health in Biostatistics, Certificate in Advanced Epidemiology
 GPA: 3.8515
 
-## The College of New Jersey
-### Bachelor of Science in Biomedical Engineering
+**The College of New Jersey**
+Bachelor of Science in Biomedical Engineering
 GPA: 3.518
+
+# Experience
+**Research Assistant** </div>
+Columbia University Irving Medical Center </div>
+
+
+**Neuroscience Reviewer** </div>
+Columbia University Department of Biostatistics/NFL Players' Association </div>
+
+**SR. CRx Implementation Consultant** </div>
+HealthCare Facility (HCF) Compliance Corp.
+
+# Skills
+- SAS
+- SPSS
+- MS Excel
+- R
+- MATLAB
+- Minitab
+- MS Project
 
 
 
