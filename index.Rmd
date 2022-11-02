@@ -4,9 +4,8 @@ output:
   html_document:
     toc: true
     toc_float: true
-    theme: united
+    theme: lumen
 ---
-
 # Welcome!
 
 <img src="images/IMG_0229.JPG" style="width:50%">
