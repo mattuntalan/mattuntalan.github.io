@@ -19,12 +19,21 @@ GPA: 3.518
 # Experience
 **Research Assistant** </div>
 Columbia University Irving Medical Center </div>
+- Works in conjunction with two other biostatistics student and PI to determine the association between TSH levels and Non-Alcoholic Fatty Liver Disease (NFALD) risk in children and adolescents
+- Utilizes SAS to conduct exploratory and confirmatory analyses
+- Filters data to remove abnormal laboratory values from analysis
 
 **Neuroscience Reviewer** </div>
 Columbia University Department of Biostatistics/NFL Players' Association </div>
+- Works in conjunction with two other biostatistics student and PI to determine the association between TSH levels and Non-Alcoholic Fatty Liver Disease (NFALD) risk in children and adolescents
+- Utilizes SAS to conduct exploratory and confirmatory analyses
+- Filters data to remove abnormal laboratory values from analysis
 
 **SR. CRx Implementation Consultant** </div>
-HealthCare Facility (HCF) Compliance Corp.
+HealthCare Facility (HCF) Compliance Corp. </div>
+- Works in conjunction with two other biostatistics student and PI to determine the association between TSH levels and Non-Alcoholic Fatty Liver Disease (NFALD) risk in children and adolescents
+- Utilizes SAS to conduct exploratory and confirmatory analyses
+- Filters data to remove abnormal laboratory values from analysis
 
 # Skills
 - SAS

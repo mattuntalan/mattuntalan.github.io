@@ -8,4 +8,4 @@ output:
 ---
 # Welcome!
 
-<img src="images/IMG_0229.JPG" style="width:50%">
+<img src="images/IMG_0229.JPG" style="width:45%">
