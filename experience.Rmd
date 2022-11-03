@@ -1,49 +1,82 @@
 ---
-title: "Experience"
+title: "Academic and Professional Experience"
 output: 
   html_document:
-    toc: true
-    toc_float: true
-    theme: lumen
+    toc: false
+    toc_float: false
+    theme: united
 ---
 
-# Education
+## Education
+
 **Columbia University**
-Master of Public Health in Biostatistics, Certificate in Advanced Epidemiology
-GPA: 3.8515
+
+::: {style="text-align: right"}
+Expected May 2023
+:::
+
+-   Master of Public Health in Biostatistics, Certificate in Advanced Epidemiology
+-   GPA: 3.8515
 
 **The College of New Jersey**
-Bachelor of Science in Biomedical Engineering
-GPA: 3.518
 
-# Experience
-**Research Assistant** </div>
-Columbia University Irving Medical Center </div>
-- Works in conjunction with two other biostatistics student and PI to determine the association between TSH levels and Non-Alcoholic Fatty Liver Disease (NFALD) risk in children and adolescents
-- Utilizes SAS to conduct exploratory and confirmatory analyses
-- Filters data to remove abnormal laboratory values from analysis
+::: {style="text-align: right"}
+May 2019
+:::
 
-**Neuroscience Reviewer** </div>
-Columbia University Department of Biostatistics/NFL Players' Association </div>
-- Interprets players' histories of presenting symptoms, academic/occupational, and social history
-- Summarizes sociodemographic factors for analysis
-- Inputs neuropsychological results post-exam, including WMS-IV, ACS, and MINI International NEuropsychiatric Interview.
+-   Bachelor of Science in Biomedical Engineering
+-   GPA: 3.518
 
-**SR. CRx Implementation Consultant** </div>
-HealthCare Facility (HCF) Compliance Corp. </div>
-- Works in conjunction with two other biostatistics student and PI to determine the association between TSH levels and Non-Alcoholic Fatty Liver Disease (NFALD) risk in children and adolescents
-- Utilizes SAS to conduct exploratory and confirmatory analyses
-- Filters data to remove abnormal laboratory values from analysis
+## Experience
 
-# Skills
-- SAS
-- SPSS
-- MS Excel
-- R
-- MATLAB
-- Minitab
-- MS Project
+**Research Assistant**
 
+::: {style="text-align: right"}
+Oct 2022 - Current
+:::
 
+Columbia University Irving Medical Center
 
+</div>
 
+-   Works in conjunction with two other biostatistics student and PI to determine the association between TSH levels and Non-Alcoholic Fatty Liver Disease (NFALD) risk in children and adolescents
+-   Utilizes SAS to conduct exploratory and confirmatory analyses
+-   Filters data to remove abnormal laboratory values from analysis
+
+**Neuroscience Reviewer**
+
+::: {style="text-align: right"}
+Oct 2021 - Current
+:::
+
+Columbia University Department of Biostatistics/NFL Players' Association
+
+</div>
+
+-   Interprets players' histories of presenting symptoms, academic/occupational, and social history
+-   Summarizes sociodemographic factors for analysis
+-   Inputs neuropsychological results post-exam, including WMS-IV, ACS, and MINI International NEuropsychiatric Interview.
+
+**SR. CRx Implementation Consultant**
+
+::: {style="text-align: right"}
+Aug 2019 - Jul 2021
+:::
+
+HealthCare Facility (HCF) Compliance Corp.
+
+</div>
+
+-   Works in conjunction with two other biostatistics student and PI to determine the association between TSH levels and Non-Alcoholic Fatty Liver Disease (NFALD) risk in children and adolescents
+-   Utilizes SAS to conduct exploratory and confirmatory analyses
+-   Filters data to remove abnormal laboratory values from analysis
+
+## Skills
+
+-   SAS
+-   SPSS
+-   MS Excel
+-   R
+-   MATLAB
+-   Minitab
+-   MS Project
