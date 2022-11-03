@@ -22,20 +22,13 @@ data("rest_inspec")
 rest_tidy = rest_inspec %>%
   separate(col = inspection_date,
            into = c("inspect_year", "inspect_month", "inspect_day")) %>%
-  filter(inspect_year == 2017)
+  filter(inspect_year == 2017) %>%
+  mutate(inspect_month = as.numeric(inspect_month)) %>%
+  mutate(month_name = month.name[inspect_month])
 ```
 Column {data-width=650}
 -----------------------------------------------------------------------
 ### Chart A
-```{r}
-rest_tidy %>%
-  mutate(grade = fct_reorder(grade, score)) %>% 
-  plot_ly(y = ~score, color = ~grade, type = "box", colors = "viridis")
-```
-
-Column {data-width=350}
------------------------------------------------------------------------
-### Chart B
 ```{r}
 rest_tidy %>% 
   count(cuisine_description) %>% 
@@ -43,12 +36,21 @@ rest_tidy %>%
   plot_ly(x = ~cuisine_description, y = ~n, color = ~cuisine_description, type = "bar", colors = "viridis")
 ```
 
+Column {data-width=350}
+-----------------------------------------------------------------------
+### Chart B
+```{r}
+rest_tidy %>%
+  mutate(grade = fct_reorder(grade, score)) %>% 
+  plot_ly(y = ~score, color = ~grade, type = "box", colors = "viridis")
+```
+
 ### Chart C
 ```{r}
 rest_tidy %>%
   plot_ly(
     x = ~inspect_day, y = ~score, type = "scatter", mode = "markers",
-    color = ~inspect_month, alpha = 0.5)
+    color = ~month_name, alpha = 0.5)
 ```
 
 
