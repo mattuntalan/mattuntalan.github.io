@@ -4,7 +4,7 @@ output:
   html_document:
     toc: false
     toc_float: false
-    theme: united
+    theme: sandstone
 ---
 
 ## Education
@@ -35,7 +35,7 @@ May 2019
 Oct 2022 - Current
 :::
 
-Columbia University Irving Medical Center
+*Columbia University Irving Medical Center*
 
 </div>
 
@@ -49,13 +49,13 @@ Columbia University Irving Medical Center
 Oct 2021 - Current
 :::
 
-Columbia University Department of Biostatistics/NFL Players' Association
+*Columbia University Department of Biostatistics/NFL Players' Association*
 
 </div>
 
 -   Interprets players' histories of presenting symptoms, academic/occupational, and social history
 -   Summarizes sociodemographic factors for analysis
--   Inputs neuropsychological results post-exam, including WMS-IV, ACS, and MINI International NEuropsychiatric Interview.
+-   Inputs neuropsychological results post-exam, including WMS-IV, ACS, and MINI International Neuropsychiatric Interview. 
 
 **SR. CRx Implementation Consultant**
 
@@ -63,7 +63,7 @@ Columbia University Department of Biostatistics/NFL Players' Association
 Aug 2019 - Jul 2021
 :::
 
-HealthCare Facility (HCF) Compliance Corp.
+*HealthCare Facility (HCF) Compliance Corp.*
 
 </div>
 
