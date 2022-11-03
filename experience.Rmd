@@ -2,7 +2,7 @@
 title: "Academic and Professional Experience"
 output: 
   html_document:
-    toc: false
+    toc: true
     toc_float: false
     theme: sandstone
 ---
@@ -29,42 +29,24 @@ May 2019
 
 ## Experience
 
-**Research Assistant**
-
-::: {style="text-align: right"}
-Oct 2022 - Current
-:::
-
+**Research Assistant** <div style="text-align: right"> Oct 2022 - Current </div>
 *Columbia University Irving Medical Center*
-
 </div>
 
 -   Works in conjunction with two other biostatistics student and PI to determine the association between TSH levels and Non-Alcoholic Fatty Liver Disease (NFALD) risk in children and adolescents
 -   Utilizes SAS to conduct exploratory and confirmatory analyses
 -   Filters data to remove abnormal laboratory values from analysis
 
-**Neuroscience Reviewer**
-
-::: {style="text-align: right"}
-Oct 2021 - Current
-:::
-
+**Neuroscience Reviewer** <div style="text-align: right"> Oct 2021 - Current </div>
 *Columbia University Department of Biostatistics/NFL Players' Association*
-
 </div>
 
 -   Interprets players' histories of presenting symptoms, academic/occupational, and social history
 -   Summarizes sociodemographic factors for analysis
 -   Inputs neuropsychological results post-exam, including WMS-IV, ACS, and MINI International Neuropsychiatric Interview. 
 
-**SR. CRx Implementation Consultant**
-
-::: {style="text-align: right"}
-Aug 2019 - Jul 2021
-:::
-
+**SR. CRx Implementation Consultant** <div style="text-align: right"> Aug 2019 - Jul 2021 </div>
 *HealthCare Facility (HCF) Compliance Corp.*
-
 </div>
 
 -   Works in conjunction with two other biostatistics student and PI to determine the association between TSH levels and Non-Alcoholic Fatty Liver Disease (NFALD) risk in children and adolescents
