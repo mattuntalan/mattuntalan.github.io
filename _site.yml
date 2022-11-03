@@ -2,7 +2,7 @@ name: "Directory"
 output_dir: "."
 navbar:
   title: "Home"
-  left:
+  right:
     - text: "Experience"
       href: experience.html
     - icon: fa-envelope fa-lg
