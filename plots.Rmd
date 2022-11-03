@@ -1,0 +1,54 @@
+---
+title: "Plots"
+author: "Matt Untalan"
+date: "2022-11-03"
+output: 
+  flexdashboard::flex_dashboard:
+    orientation: columns
+    vertical_layout: fill
+    source: embed
+---
+
+```{r load}
+library(tidyverse)
+library(p8105.datasets)
+library(plotly)
+library(flexdashboard)
+```
+
+```{r}
+data("rest_inspec")
+
+rest_tidy = rest_inspec %>%
+  separate(col = inspection_date,
+           into = c("inspect_year", "inspect_month", "inspect_day")) %>%
+  filter(inspect_year == 2017)
+```
+Column {data-width=650}
+-----------------------------------------------------------------------
+### Chart A
+```{r}
+rest_tidy %>%
+  mutate(grade = fct_reorder(grade, score)) %>% 
+  plot_ly(y = ~score, color = ~grade, type = "box", colors = "viridis")
+```
+
+Column {data-width=350}
+-----------------------------------------------------------------------
+### Chart B
+```{r}
+rest_tidy %>% 
+  count(cuisine_description) %>% 
+  mutate(cuisine_description = fct_reorder(cuisine_description, n)) %>% 
+  plot_ly(x = ~cuisine_description, y = ~n, color = ~cuisine_description, type = "bar", colors = "viridis")
+```
+
+### Chart C
+```{r}
+rest_tidy %>%
+  plot_ly(
+    x = ~inspect_day, y = ~score, type = "scatter", mode = "markers",
+    color = ~inspect_month, alpha = 0.5)
+```
+
+
